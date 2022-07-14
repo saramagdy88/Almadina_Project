@@ -1,0 +1,10 @@
+.new{
+    padding: 40px 0;
+}
+.new img {
+    display: inline-block;
+    border: 1px solid#eee;
+    position: relative;
+    right:30%;
+    margin-bottom: 40px;
+}

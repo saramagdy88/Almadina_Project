@@ -1,0 +1,36 @@
+/* Slider */
+.carousel-inner .carousel-item img {
+  height: 80vh;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: #151616;
+}
+
+.carousel-indicators [data-bs-target] {
+  border-radius: 5px;
+  width: 30px;
+  height: 10px;
+  border: 1px solid #fff;
+  margin-right: 8px;
+  background-color: #fff;
+}
+.carousel-indicators [data-bs-target].active {
+  background-color: #2c7da0;
+  border: 1px solid #2c7da0;
+}
+.carousel-caption {
+  margin-bottom: 220px;
+}
+
+/* News */
+.news{
+  padding: 30px 0;
+}
+.news h2 {
+  margin-bottom: 30px;
+}
+/* .news .item {
+  max-height: 300px;
+} */
+
